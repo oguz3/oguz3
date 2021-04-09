@@ -3,8 +3,6 @@
 - 🔭 I’m currently DEU Computer Science student (2/4) 📝
 - 🌱 I’m currently learning React & React-native 💻
 
-I’m looking for new opportunities.
-
 ## :mailbox: Contact Me:
 
 [<img src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_gmail-64.png"/>](mailto:ulukaya311@gmail.com)
