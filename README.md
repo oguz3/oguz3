@@ -1,6 +1,6 @@
 ### Hi, I'm Oğuz 👋
 
-- 🔭 I’m currently DEU Computer Science student (2/4) 📝
+- 🔭 I’m currently DEU Computer Science student (3/4) 📝
 - 🌱 I’m currently learning React & React-native 💻
 
 ## :mailbox: Contact Me:
