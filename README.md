@@ -1,7 +1,7 @@
 ### Hi, I'm Oğuz 👋
 
-- 🔭 I’m currently DEU Computer Science student (3/4) 📝
-- 🌱 I’m currently learning React & Next.js 💻
+- 🔭 I’m currently DEU Computer Science student (4/4) 📝
+- 🌱 I’m currently using React & Next.js 💻
 
 ## :mailbox: Contact Me:
 
