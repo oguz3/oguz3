@@ -1,7 +1,8 @@
 ### Hi, I'm Oğuz 👋
 
-- 🔭 I’m currently DEU Computer Science student (4/4) 📝
-- 🌱 I’m currently using React & Next.js 💻
+- 🔭 I'm currently working at Popupsmart.
+- 🌱 I'm building [QuizRise](https://www.quizrise.com) as a side project. 💻
+
 
 ## :mailbox: Contact Me:
 
