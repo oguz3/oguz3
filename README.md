@@ -1,7 +1,7 @@
 ### Hi, I'm Oğuz 👋
 
 - 🔭 I'm currently working at Popupsmart.
-- 🌱 I'm building [QuizRise](https://www.quizrise.com) as a side project. 💻
+- 🌱 I'm building the [QuizRise Quiz maker](https://www.quizrise.com) 💻
 
 
 ## :mailbox: Contact Me:
